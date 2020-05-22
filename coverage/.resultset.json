@@ -208,12 +208,71 @@
           null,
           1,
           null,
+          1,
+          null,
+          1,
           null
         ]
       },
       "/Users/joshuatukman/modtwo/b2-mid-mod-1/app/helpers/application_helper.rb": {
         "lines": [
           1,
+          null
+        ]
+      },
+      "/Users/joshuatukman/modtwo/b2-mid-mod-1/spec/features/studios/index_spec.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -229,6 +288,46 @@
           2,
           2,
           null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null,
+          null,
           null
         ]
       },
@@ -241,6 +340,14 @@
           null,
           1,
           1,
+          null,
+          1,
+          6,
+          null,
+          null,
+          1,
+          6,
+          null,
           null,
           null
         ]
@@ -309,12 +416,22 @@
           null
         ]
       },
-      "/Users/joshuatukman/modtwo/b2-mid-mod-1/app/controllers/studios_controller.rb": {
+      "/Users/joshuatukman/modtwo/b2-mid-mod-1/app/models/actor_movie.rb": {
         "lines": [
           1,
           null,
           1,
           1,
+          null,
+          null
+        ]
+      },
+      "/Users/joshuatukman/modtwo/b2-mid-mod-1/app/controllers/movies_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          5,
           null,
           null
         ]
@@ -326,7 +443,24 @@
           null
         ]
       },
-      "/Users/joshuatukman/modtwo/b2-mid-mod-1/app/models/actor_movie.rb": {
+      "/Users/joshuatukman/modtwo/b2-mid-mod-1/app/controllers/movie_actors_controller.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null
+        ]
+      },
+      "/Users/joshuatukman/modtwo/b2-mid-mod-1/app/controllers/studios_controller.rb": {
         "lines": [
           1,
           null,
@@ -337,6 +471,6 @@
         ]
       }
     },
-    "timestamp": 1590164197
+    "timestamp": 1590169937
   }
 }
